@@ -9,9 +9,7 @@
 ! GitHub issues: https://github.com/dalisoft/blockers/issues
 ! GitHub pull requests: https://github.com/dalisoft/blockers/pulls
 ntp.msn.com^
-@@||stat.radar.imgsmail.ru/update$image,domain=e.mail.ru
 @@||storage.yandexcloud.net$image
-@@||e.mail.ru/api/v1/messages/pushnotifications/*
 @@||web.archive.org^$important,document
 @@||docs.google.com^$elemhide
 @@||apps.hrforecast.de^$important,document
@@ -23,7 +21,6 @@ app.raindrop.io##div[role="listitem"]:has(a[href="\/settings\/pro"])
 @@||peeplz.online^$important,document
 @@||e-imzo.uz^$important,document
 @@||dalisoft.uz^$important,document
-@@||www.spotify.com^$elemhide
 utweb.rainberrytv.com###dashboard > div.dashboard-inner-container > div.content-player-container:nth-child(4) > div.content-player
 utweb.rainberrytv.com###sidebar > div.card-container:last-child
 utweb.rainberrytv.com###media-library > div.media-library-inner-container > div.media-library-container:first-child > div.card-container:first-child > div.card
@@ -33,10 +30,5 @@ yoomoney.ru###root > div.App__StyledApp-sc-107fbfz-0.jtBDEZ > div.ThemeLocal__St
 rezka.ag###main > div.glory:nth-child(5)
 @@||shareasale.com^$important,document
 @@||secure.cleverfiles.com^$important,document
-@@||app.skiff.com/mail/push/push-sw.js$domain=app.skiff.com
-||translate.googleapis.com/element/log
 @@||www.icloud.com^$important,document
-||edge.microsoft.com/serviceexperimentation/
-@@||xray.mail.ru/batch$domain=e.mail.ru
-@@||testing.richdragon.site^$important,document
 medium.com###root > div.a.b.c > div.l.c:last-child > div.l:last-child > div.m.tc.td.te:nth-child(4)
