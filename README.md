@@ -1,2 +1,3 @@
 # blockers
-AdGuard &amp; uBlock filters + DNS filters
+
+AdGuard & uBlock filters + DNS filters
