@@ -4,6 +4,8 @@ AdGuard & uBlock filters + DNS filters
 
 ## List of preferred filters
 
+Those lists are for using with filters in this repo
+
 ### AdGuard & uBlock filters
 
 | Name                           | Category          |
