@@ -1,10 +1,10 @@
-! Title: @dalisoft filters
+! Title: @dalisoft filter
 ! Last modified: %timestamp%
 ! Expires: 7 days
 ! Description: |
 !   Addition to list of filters to boost and optimize website
-! License: https://github.com/dalisoft/blockers/blob/master/LICENSE
 ! Homepage: https://github.com/dalisoft/blockers
+! License: https://github.com/dalisoft/blockers/blob/master/LICENSE
 !
 ! GitHub issues: https://github.com/dalisoft/blockers/issues
 ! GitHub pull requests: https://github.com/dalisoft/blockers/pulls
