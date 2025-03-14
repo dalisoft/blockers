@@ -1,6 +1,6 @@
 ! Title: @dalisoft filter
-! Last modified: 2025-03-14T14:46:52+0500
-! Expires: 7 days
+! Last modified: 2025-03-14T14:50:45+0500
+! Expires: 2 days
 ! Description: Addition to list of filters to boost and optimize website
 ! Homepage: https://github.com/dalisoft/blockers
 ! License: https://github.com/dalisoft/blockers/blob/master/LICENSE
@@ -33,4 +33,5 @@ rezka.ag###main > div.glory:nth-child(5)
 medium.com###root > div.a.b.c > div.l.c:last-child > div.l:last-child > div.m.tc.td.te:nth-child(4)
 @@||sg.mmstat.com^$domain=chat.qwenlm.ai
 arcee.ai###new-model
+reddit.com###main-content > inline-auth-landing-experience-xpromo-shell.absolute:last-child
 ||cdn-client.medium.com^$script,domain=medium.com
