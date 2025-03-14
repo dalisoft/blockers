@@ -5,7 +5,7 @@
 ! License: https://github.com/dalisoft/blockers/blob/master/LICENSE
 ! Last modified: %timestamp%
 !
-!!rule@@||activity.windows.com^
+!rule@@||activity.windows.com^
 !rule@@||alfabit.org^
 !rule@@||api.digiseller.ru^
 !rule@@||app-measurement.com^
@@ -15,6 +15,7 @@
 !rule@@||commits.top^
 !rule@@||committers.top^
 !rule@@||continuum.dds.microsoft.com^
+!rule@@||excess.duolingo.com^
 !rule@@||go.aiven.io^
 !rule@@||img.imgsmail.ru^
 !rule@@||js.monitor.azure.com^
@@ -23,6 +24,7 @@
 !rule@@||sessions.bugsnag.com^
 !rule@@||settings-win.data.microsoft.com^
 !rule@@||sf.tlu.dl.delivery.mp.microsoft.com^
+!rule@@||sg.mmstat.com^
 !rule@@||startup-mobile.ap.yandex-net.ru^
 !rule@@||stat.radar.imgsmail.ru^
 !rule@@||t.co^
@@ -33,6 +35,7 @@
 !rule@@||videoproc.com^
 !rule@@||www91.intel.com^
 !rule||adobe.com^
+!rule||ebay.com^
 !rule||firebaseinstallations.googleapis.com^
 !rule||igamecj.com^
 !rule||m.facebook.com^
@@ -57,6 +60,7 @@
 @@||ct.sendgrid.net^
 @@||edgewise.app^
 @@||emaillinks.soundiiz.com^
+@@||files.manuscdn.com^
 @@||fonts.gstatic.com^
 @@||fstream.binance.com^
 @@||hub.jetbrains.com^
@@ -90,7 +94,9 @@
 @@||sso.passport.yandex.ru^
 @@||st.vk.com^
 @@||static.cloud.coveo.com^
+@@||statichdrezka.ac^
 @@||stream.voidboost.top^
+@@||swe-arena.com^
 @@||t.co^
 @@||testing.richdragon.site^
 @@||ut.taobao.com^
@@ -197,7 +203,6 @@
 ||dns.msftncsi.com^
 ||download.db-ip.com^
 ||dtmg-privacy.my.onetrust.com^
-||ebay.com^
 ||ecx.images-amazon.com^
 ||eds.browserstack.com^
 ||email-images.mindbox.ru^

@@ -32,3 +32,5 @@ rezka.ag###main > div.glory:nth-child(5)
 @@||secure.cleverfiles.com^$important,document
 @@||www.icloud.com^$important,document
 medium.com###root > div.a.b.c > div.l.c:last-child > div.l:last-child > div.m.tc.td.te:nth-child(4)
+@@||sg.mmstat.com^$domain=chat.qwenlm.ai
+arcee.ai###new-model
