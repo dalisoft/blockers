@@ -1,5 +1,5 @@
 ! Title: @dalisoft filter
-! Last modified: %timestamp%
+! Last modified: 2025-03-14T14:42:53+0500
 ! Expires: 7 days
 ! Description: |
 !   Addition to list of filters to boost and optimize website
@@ -8,7 +8,7 @@
 !
 ! GitHub issues: https://github.com/dalisoft/blockers/issues
 ! GitHub pull requests: https://github.com/dalisoft/blockers/pulls
-ntp.msn.com^
+||ntp.msn.com^
 @@||storage.yandexcloud.net$image
 @@||web.archive.org^$important,document
 @@||docs.google.com^$elemhide
@@ -34,3 +34,4 @@ rezka.ag###main > div.glory:nth-child(5)
 medium.com###root > div.a.b.c > div.l.c:last-child > div.l:last-child > div.m.tc.td.te:nth-child(4)
 @@||sg.mmstat.com^$domain=chat.qwenlm.ai
 arcee.ai###new-model
+||cdn-client.medium.com^$script,domain=medium.com
