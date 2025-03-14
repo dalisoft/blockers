@@ -10,4 +10,5 @@
   },
   "prettier.enable": true,
   "prettier.requireConfig": false,
+  "files.insertFinalNewline": false
 }
