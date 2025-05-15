@@ -1,5 +1,5 @@
 ! Title: @dalisoft filter
-! Last modified: 2025-04-26T10:38:59+0500
+! Last modified: 2025-05-15T15:13:26+0500
 ! Expires: 2 days
 ! Description: Addition to list of filters to boost and optimize website
 ! Homepage: https://github.com/dalisoft/blockers
@@ -34,4 +34,5 @@ medium.com###root > div.a.b.c > div.l.c:last-child > div.l:last-child > div.m.tc
 @@||sg.mmstat.com^$domain=chat.qwenlm.ai
 arcee.ai###new-model
 reddit.com###main-content > inline-auth-landing-experience-xpromo-shell.absolute:last-child
-||cdn-client.medium.com^$script,domain=medium.com
+||cdn-client.medium.com^$script
+||www.inkl.com^$script
