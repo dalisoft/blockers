@@ -107,7 +107,7 @@
 @@||worker.raycast-releases.com^
 @@||www.fbsbx.com^
 @@||www.notion.so^
-@@||xray.mail.ru^$important
+@@||xray.mail.ru^
 ||a.nel.cloudflare.com^
 ||a888.net.eu.org^
 ||aax-us-iad.amazon.com^
