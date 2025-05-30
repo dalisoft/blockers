@@ -51,11 +51,8 @@
 @@||alive.github.com^
 @@||amp-api-edge.apps.apple.com^
 @@||amp-api-search-edge.apps.apple.com^
-@@||analytics.adjust.io^
 @@||api-private.atlassian.com^
 @@||api.atlassian.com^
-@@||app.adjust.net.in^
-@@||app.adjust.world^
 @@||app.gitbook.com^
 @@||appleid.cdn-apple.com^
 @@||blog.logrocket.com^
