@@ -3,7 +3,7 @@
 ! Description: Balance between privacy and usability.
 ! Homepage: https://github.com/dalisoft/blockers
 ! License: https://github.com/dalisoft/blockers/blob/master/LICENSE
-! Last modified: 2025-05-15T15:13:26+0500
+! Last modified: 2025-05-30T07:20:01+0500
 !
 !rule@@||activity.windows.com^
 !rule@@||alfabit.org^
@@ -43,6 +43,7 @@
 !rule||shop.digiseller.ru^
 !rule||static.cloud.coveo.com^
 !rule||static.hdrezka.ac^
+!rule||stytch.com^
 @@||1satoshi.exchange^
 @@||2ip.ru^
 @@||360viewlink.com^
@@ -56,6 +57,7 @@
 @@||appleid.cdn-apple.com^
 @@||blog.logrocket.com^
 @@||chart.apis.google.com^
+@@||chat.qwen.ai^
 @@||crt.sectigo.com^
 @@||ct.sendgrid.net^
 @@||edgewise.app^
@@ -105,7 +107,7 @@
 @@||worker.raycast-releases.com^
 @@||www.fbsbx.com^
 @@||www.notion.so^
-@@||xray.mail.ru^$important
+@@||xray.mail.ru^
 ||a.nel.cloudflare.com^
 ||a888.net.eu.org^
 ||aax-us-iad.amazon.com^
@@ -347,7 +349,6 @@
 ||stats.gcp.smartmailcloud.com^
 ||status.geotrust.com^
 ||storage.elfsight.com^
-!rule||stytch.com^
 ||sublimehq.com^
 ||syndication.twitter.com^
 ||t.paypal.com^
@@ -401,4 +402,3 @@
 ||yadro.com^
 ||ysa-static.passport.yandex.ru^
 ||zoom-privacy.my.onetrust.com^
-@@||chat.qwen.ai^
