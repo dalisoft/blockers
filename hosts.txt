@@ -57,6 +57,7 @@
 @@||appleid.cdn-apple.com^
 @@||blog.logrocket.com^
 @@||chart.apis.google.com^
+@@||chat.qwen.ai^
 @@||crt.sectigo.com^
 @@||ct.sendgrid.net^
 @@||edgewise.app^
@@ -401,4 +402,3 @@
 ||yadro.com^
 ||ysa-static.passport.yandex.ru^
 ||zoom-privacy.my.onetrust.com^
-@@||chat.qwen.ai^
