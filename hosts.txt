@@ -43,6 +43,7 @@
 !rule||shop.digiseller.ru^
 !rule||static.cloud.coveo.com^
 !rule||static.hdrezka.ac^
+!rule||stytch.com^
 @@||1satoshi.exchange^
 @@||2ip.ru^
 @@||360viewlink.com^
@@ -347,7 +348,6 @@
 ||stats.gcp.smartmailcloud.com^
 ||status.geotrust.com^
 ||storage.elfsight.com^
-!rule||stytch.com^
 ||sublimehq.com^
 ||syndication.twitter.com^
 ||t.paypal.com^
