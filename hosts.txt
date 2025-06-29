@@ -402,3 +402,5 @@
 ||yadro.com^
 ||ysa-static.passport.yandex.ru^
 ||zoom-privacy.my.onetrust.com^
+@@||tokenized.play.google.com^
+@@||track.pstmrk.it^

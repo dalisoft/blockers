@@ -36,3 +36,4 @@ arcee.ai###new-model
 reddit.com###main-content > inline-auth-landing-experience-xpromo-shell.absolute:last-child
 ||cdn-client.medium.com^$script
 ||www.inkl.com^$script
+@@||cdck-file-uploads-us1.s3-accelerate.dualstack.amazonaws.com^$domain=community.openai.com
