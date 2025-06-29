@@ -3,7 +3,7 @@
 ! Description: Balance between privacy and usability.
 ! Homepage: https://github.com/dalisoft/blockers
 ! License: https://github.com/dalisoft/blockers/blob/master/LICENSE
-! Last modified: 2025-05-30T07:20:01+0500
+! Last modified: 2025-06-29T12:47:49+0500
 !
 !rule@@||activity.windows.com^
 !rule@@||alfabit.org^
@@ -402,3 +402,5 @@
 ||yadro.com^
 ||ysa-static.passport.yandex.ru^
 ||zoom-privacy.my.onetrust.com^
+@@||tokenized.play.google.com^
+@@||track.pstmrk.it^
