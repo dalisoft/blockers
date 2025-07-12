@@ -7,7 +7,7 @@
 !
 ! GitHub issues: https://github.com/dalisoft/blockers/issues
 ! GitHub pull requests: https://github.com/dalisoft/blockers/pulls
-||ntp.msn.com^
+ntp.msn.com^
 @@||storage.yandexcloud.net$image
 @@||web.archive.org^$important,document
 @@||docs.google.com^$elemhide
