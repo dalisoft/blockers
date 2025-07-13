@@ -1,5 +1,5 @@
 ! Title: @dalisoft filter
-! Last modified: 2025-07-12T10:25:15+0500
+! Last modified: 2025-07-13T13:14:54+0500
 ! Expires: 2 days
 ! Description: Addition to list of filters to boost and optimize website
 ! Homepage: https://github.com/dalisoft/blockers
@@ -37,3 +37,4 @@ reddit.com###main-content > inline-auth-landing-experience-xpromo-shell.absolute
 ||cdn-client.medium.com^$script
 ||www.inkl.com^$script
 @@||cdck-file-uploads-us1.s3-accelerate.dualstack.amazonaws.com^$domain=community.openai.com
+@@||content.googleapis.com/upload/drive/$domain=aistudio.google.com
