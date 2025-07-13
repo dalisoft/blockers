@@ -369,8 +369,6 @@
 ||us.lgtvsdp.com^
 ||usage.readdle.com^
 ||use-application-dns.net^
-||use-application-dns.net^
-||use-application-dns.net^
 ||userator.ru^
 ||utimg.ru^
 ||vcsa.vmware.com^
