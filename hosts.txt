@@ -267,6 +267,7 @@
 ||log16-normal-alisg.tiktokv.com^
 ||logo.clearbit.com^
 ||lookaside.facebook.com^
+||log.tailscale.com^
 ||m.lenta.ru^
 ||malwarebytes.org^
 ||marketing.figma.com^
