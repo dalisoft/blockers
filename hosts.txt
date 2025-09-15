@@ -16,6 +16,7 @@
 !rule@@||committers.top^
 !rule@@||continuum.dds.microsoft.com^
 !rule@@||excess.duolingo.com^
+!rule@@||fpjscdn.net^
 !rule@@||go.aiven.io^
 !rule@@||img.imgsmail.ru^
 !rule@@||js.monitor.azure.com^
@@ -53,6 +54,7 @@
 @@||amp-api-search-edge.apps.apple.com^
 @@||api-private.atlassian.com^
 @@||api.atlassian.com^
+@@||api.producthunt.com^
 @@||app.gitbook.com^
 @@||appleid.cdn-apple.com^
 @@||blog.logrocket.com^
@@ -87,6 +89,7 @@
 @@||pcdn-www.pcloud.com^
 @@||piunikaweb.com^
 @@||plati.ru^
+@@||play.google.com^
 @@||plex.direct^
 @@||privacymail.app^
 @@||rsload.xyz^
@@ -267,11 +270,11 @@
 ||linkonclick.com^
 ||livetileedge.dsx.mp.microsoft.com^
 ||location.bloomberg.com^
+||log.tailscale.com^
 ||log16-normal-alisg.tiktokv.com.edgekey.net^
 ||log16-normal-alisg.tiktokv.com^
 ||logo.clearbit.com^
 ||lookaside.facebook.com^
-||log.tailscale.com^
 ||m.lenta.ru^
 ||malwarebytes.org^
 ||marketing.figma.com^
