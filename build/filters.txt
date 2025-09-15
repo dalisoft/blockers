@@ -1,5 +1,5 @@
 ! Title: @dalisoft filter
-! Last modified: 2025-08-16T09:15:36+0500
+! Last modified: 2025-09-15T20:11:06+0500
 ! Expires: 2 days
 ! Description: Addition to list of filters to boost and optimize website
 ! Homepage: https://github.com/dalisoft/blockers
@@ -7,35 +7,44 @@
 !
 ! GitHub issues: https://github.com/dalisoft/blockers/issues
 ! GitHub pull requests: https://github.com/dalisoft/blockers/pulls
-ntp.msn.com^
-@@||storage.yandexcloud.net$image
-@@||web.archive.org^$important,document
-@@||docs.google.com^$elemhide
+@@||2ip.ua^$important,document
 @@||apps.hrforecast.de^$important,document
-docs.nestjs.com##app-root:first-child > app-homepage.ng-star-inserted:last-child > div.container-fluid:last-child > div.container:last-child > div.page-wrapper:first-child > app-controllers.ng-star-inserted:last-child > div.content > p > app-banner-enterprise > div.banner
-app.raindrop.io##a[href="https:/\/raindrop.io\/pro\/buy"][target="_blank"]
-app.raindrop.io##div[role="listitem"]:has(a[href="\/settings\/pro"])
-@@||dvprogram.state.gov^$important,document
-@@||www.instagram.com^$important,document
-@@||peeplz.online^$important,document
-@@||e-imzo.uz^$important,document
-@@||dalisoft.uz^$important,document
-utweb.rainberrytv.com###dashboard > div.dashboard-inner-container > div.content-player-container:nth-child(4) > div.content-player
-utweb.rainberrytv.com###sidebar > div.card-container:last-child
-utweb.rainberrytv.com###media-library > div.media-library-inner-container > div.media-library-container:first-child > div.card-container:first-child > div.card
-utweb.rainberrytv.com###sidebar > div.ad-free-upsell-container:nth-child(2)
-@@||itsme.uz^$important,document
-||log.tailscale.com^
-yoomoney.ru###root > div.App__StyledApp-sc-107fbfz-0.jtBDEZ > div.ThemeLocal__StyledThemeLocal-sc-1y2ad8h-0.ggmmyD > div.styled__StyledTplSection-sc-9x6kqn-0.fTtvgM.styled__StyledTplSection-sc-1mp3ed2-3.bYSJLz:last-child > div.styled__StyledTplSectionArea-sc-9x6kqn-1.hFzOzl:last-child > div.styled__StyledTplSectionContainer-sc-9x6kqn-2.bMpTjL > div.Decorator__StyledDecorator-sc-12ji3ka-0.jnYqbJ:last-child
-rezka.ag###main > div.glory:nth-child(5)
-@@||shareasale.com^$important,document
-@@||secure.cleverfiles.com^$important,document
-@@||www.icloud.com^$important,document
-medium.com###root > div.a.b.c > div.l.c:last-child > div.l:last-child > div.m.tc.td.te:nth-child(4)
-@@||sg.mmstat.com^$domain=chat.qwenlm.ai
-arcee.ai###new-model
-reddit.com###main-content > inline-auth-landing-experience-xpromo-shell.absolute:last-child
-||cdn-client.medium.com^$script
-||www.inkl.com^$script
 @@||cdck-file-uploads-us1.s3-accelerate.dualstack.amazonaws.com^$domain=community.openai.com
 @@||content.googleapis.com/upload/drive/$domain=aistudio.google.com
+@@||dalisoft.uz^$important,document
+@@||docs.google.com^$elemhide
+@@||dvprogram.state.gov^$important,document
+@@||e-imzo.uz^$important,document
+@@||fpjscdn.net/v3/$domain=gate.minopay.net,important
+@@||ipv6-test.com^$important,document
+@@||itsme.uz^$important,document
+@@||my.telegram.org^$important,document
+@@||peeplz.online^$important,document
+@@||secure.cleverfiles.com^$important,document
+@@||sg.mmstat.com^$domain=chat.qwenlm.ai
+@@||shareasale.com^$important,document
+@@||storage.yandexcloud.net$image
+@@||test-ipv6.com^$important,document
+@@||web.archive.org^$important,document
+@@||www.icloud.com^$important,document
+@@||www.instagram.com^$important,document
+||cdn-client.medium.com^$script
+||log.tailscale.com^
+||www.inkl.com^$script
+app.raindrop.io##a[href="https:/\/raindrop.io\/pro\/buy"][target="_blank"]
+app.raindrop.io##div[role="listitem"]:has(a[href="\/settings\/pro"])
+arcee.ai###new-model
+docs.nestjs.com##app-root:first-child > app-homepage.ng-star-inserted:last-child > div.container-fluid:last-child > div.container:last-child > div.page-wrapper:first-child > app-controllers.ng-star-inserted:last-child > div.content > p > app-banner-enterprise > div.banner
+fiction.live###right
+fiction.live#$#.nodeDetail .page-body article { max-width:inherit !important; }
+fiction.live#$##content { padding-right:0 !important; }
+medium.com###root > div.a.b.c > div.l.c:last-child > div.l:last-child > div.m.tc.td.te:nth-child(4)
+ntp.msn.com^
+providusbank.com##.modal.fade
+reddit.com###main-content > inline-auth-landing-experience-xpromo-shell.absolute:last-child
+rezka.ag###main > div.glory:nth-child(5)
+utweb.rainberrytv.com###dashboard > div.dashboard-inner-container > div.content-player-container:nth-child(4) > div.content-player
+utweb.rainberrytv.com###media-library > div.media-library-inner-container > div.media-library-container:first-child > div.card-container:first-child > div.card
+utweb.rainberrytv.com###sidebar > div.ad-free-upsell-container:nth-child(2)
+utweb.rainberrytv.com###sidebar > div.card-container:last-child
+yoomoney.ru###root > div.App__StyledApp-sc-107fbfz-0.jtBDEZ > div.ThemeLocal__StyledThemeLocal-sc-1y2ad8h-0.ggmmyD > div.styled__StyledTplSection-sc-9x6kqn-0.fTtvgM.styled__StyledTplSection-sc-1mp3ed2-3.bYSJLz:last-child > div.styled__StyledTplSectionArea-sc-9x6kqn-1.hFzOzl:last-child > div.styled__StyledTplSectionContainer-sc-9x6kqn-2.bMpTjL > div.Decorator__StyledDecorator-sc-12ji3ka-0.jnYqbJ:last-child
