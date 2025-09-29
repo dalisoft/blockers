@@ -57,6 +57,7 @@
 @@||api.producthunt.com^
 @@||api.smoot.apple.com^
 @@||app.gitbook.com^
+@@||apple-relay.apple.com^
 @@||appleid.cdn-apple.com^
 @@||blog.logrocket.com^
 @@||chart.apis.google.com^
