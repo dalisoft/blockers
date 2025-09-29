@@ -55,6 +55,7 @@
 @@||api-private.atlassian.com^
 @@||api.atlassian.com^
 @@||api.producthunt.com^
+@@||api.smoot.apple.com^
 @@||app.gitbook.com^
 @@||appleid.cdn-apple.com^
 @@||blog.logrocket.com^
@@ -142,7 +143,6 @@
 ||api.gfe.nvidia.com^
 ||api.ipify.org^
 ||api.pinterest.com^
-||api.smoot.apple.com^
 ||api.userway.org^
 ||api.vanilla.futurecdn.net^
 ||api.viqeo.tv^
