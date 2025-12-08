@@ -39,6 +39,10 @@ Those lists are for using with filters in this repo
 | AdblockID                      | Language-specific |
 | List-KR                        | Language-specific |
 
+Custom filters:
+
+- <https://github.com/gijsdev/ublock-hide-yt-shorts>
+
 ### DNS filters
 
 - [AdGuard DNS Popup Hosts filter](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt)
