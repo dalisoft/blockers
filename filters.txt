@@ -42,6 +42,7 @@ medium.com###root > div.a.b.c > div.l.c:last-child > div.l:last-child > div.m.tc
 ntp.msn.com^
 providusbank.com##.modal.fade
 reddit.com###main-content > inline-auth-landing-experience-xpromo-shell.absolute:last-child
+reddit.com###xpromo-bottom-sheet
 rezka.ag###main > div.glory:nth-child(5)
 utweb.rainberrytv.com###dashboard > div.dashboard-inner-container > div.content-player-container:nth-child(4) > div.content-player
 utweb.rainberrytv.com###media-library > div.media-library-inner-container > div.media-library-container:first-child > div.card-container:first-child > div.card
