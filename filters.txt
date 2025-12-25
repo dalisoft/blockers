@@ -30,6 +30,7 @@
 @@||www.instagram.com^$important,document
 ||cdn-client.medium.com^$script
 ||log.tailscale.com^
+||reddit.com^$removeparam=tl
 ||www.inkl.com^$script
 app.raindrop.io##a[href="https:/\/raindrop.io\/pro\/buy"][target="_blank"]
 app.raindrop.io##div[role="listitem"]:has(a[href="\/settings\/pro"])
