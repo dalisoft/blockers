@@ -1,5 +1,5 @@
 ! Title: @dalisoft filter
-! Last modified: 2025-12-08T20:35:27+0500
+! Last modified: 2025-12-25T17:33:12+0500
 ! Expires: 2 days
 ! Description: Addition to list of filters to boost and optimize website
 ! Homepage: https://github.com/dalisoft/blockers
@@ -30,6 +30,7 @@
 @@||www.instagram.com^$important,document
 ||cdn-client.medium.com^$script
 ||log.tailscale.com^
+||reddit.com^$removeparam=tl
 ||www.inkl.com^$script
 app.raindrop.io##a[href="https:/\/raindrop.io\/pro\/buy"][target="_blank"]
 app.raindrop.io##div[role="listitem"]:has(a[href="\/settings\/pro"])
