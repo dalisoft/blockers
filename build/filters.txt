@@ -1,5 +1,5 @@
 ! Title: @dalisoft filter
-! Last modified: 2025-12-25T17:33:12+0500
+! Last modified: 2026-01-06T18:11:26+0500
 ! Expires: 2 days
 ! Description: Addition to list of filters to boost and optimize website
 ! Homepage: https://github.com/dalisoft/blockers
@@ -42,6 +42,7 @@ fiction.live#$##content { padding-right:0 !important; }
 medium.com###root > div.a.b.c > div.l.c:last-child > div.l:last-child > div.m.tc.td.te:nth-child(4)
 ntp.msn.com^
 providusbank.com##.modal.fade
+reddit.com###blocking-modal
 reddit.com###main-content > inline-auth-landing-experience-xpromo-shell.absolute:last-child
 reddit.com###xpromo-bottom-sheet
 rezka.ag###main > div.glory:nth-child(5)
