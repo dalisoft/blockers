@@ -356,6 +356,7 @@
 ||staticw2.yotpo.com^
 ||stats.gc.apple.com^
 ||stats.gcp.smartmailcloud.com^
+||statsig.anthropic.com^
 ||status.geotrust.com^
 ||storage.elfsight.com^
 ||sublimehq.com^
