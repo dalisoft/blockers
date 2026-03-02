@@ -3,7 +3,7 @@
 ! Description: Balance between privacy and usability.
 ! Homepage: https://github.com/dalisoft/blockers
 ! License: https://github.com/dalisoft/blockers/blob/master/LICENSE
-! Last modified: 2026-03-02T20:43:32+0500
+! Last modified: 2026-03-02T20:46:38+0500
 !
 !rule@@||activity.windows.com^
 !rule@@||alfabit.org^
@@ -40,7 +40,6 @@
 !rule||firebaseinstallations.googleapis.com^
 !rule||igamecj.com^
 !rule||m.facebook.com^
-!rule||play.google.com^
 !rule||shop.digiseller.ru^
 !rule||static.cloud.coveo.com^
 !rule||static.hdrezka.ac^
@@ -91,7 +90,6 @@
 @@||pcdn-www.pcloud.com^
 @@||piunikaweb.com^
 @@||plati.ru^
-@@||play.google.com^
 @@||plex.direct^
 @@||privacymail.app^
 @@||rsload.xyz^
@@ -311,7 +309,6 @@
 ||pinterest.com^
 ||platform.linkedin.com^
 ||plausible.io^
-||play.google.com^
 ||play.kakao.com^
 ||pocketbitsllc.com^
 ||polldaddy.com^
