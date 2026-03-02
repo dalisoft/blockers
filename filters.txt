@@ -30,6 +30,7 @@
 @@||www.instagram.com^$important,document
 ||cdn-client.medium.com^$script
 ||log.tailscale.com^
+||play.google.com/log^
 ||reddit.com^$removeparam=tl
 ||www.inkl.com^$script
 app.raindrop.io##a[href="https:/\/raindrop.io\/pro\/buy"][target="_blank"]
