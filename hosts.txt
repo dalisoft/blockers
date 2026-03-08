@@ -78,6 +78,7 @@
 @@||landingkit.dev^
 @@||lgrecommends.lgappstv.com^
 @@||login.microsoftonline.com^
+@@||mg.mail.notion.so^
 @@||myscreen.ru^
 @@||nnmstatic.win^
 @@||oca.nflxvideo.net^
