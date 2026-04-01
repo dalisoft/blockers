@@ -1,5 +1,5 @@
 ! Title: @dalisoft filter
-! Last modified: 2026-03-08T22:06:25+0500
+! Last modified: 2026-04-02T00:16:30+0500
 ! Expires: 2 days
 ! Description: Addition to list of filters to boost and optimize website
 ! Homepage: https://github.com/dalisoft/blockers
@@ -47,6 +47,7 @@ reddit.com###blocking-modal
 reddit.com###main-content > inline-auth-landing-experience-xpromo-shell.absolute:last-child
 reddit.com###xpromo-bottom-sheet
 rezka.ag###main > div.glory:nth-child(5)
+rezka.ag#%#//scriptlet('remove-class', 'active-brand', 'body')
 utweb.rainberrytv.com###dashboard > div.dashboard-inner-container > div.content-player-container:nth-child(4) > div.content-player
 utweb.rainberrytv.com###media-library > div.media-library-inner-container > div.media-library-container:first-child > div.card-container:first-child > div.card
 utweb.rainberrytv.com###sidebar > div.ad-free-upsell-container:nth-child(2)
