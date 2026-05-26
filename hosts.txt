@@ -59,8 +59,10 @@
 @@||apple-relay.apple.com^
 @@||appleid.cdn-apple.com^
 @@||blog.logrocket.com^
+@@||ccode.dev^
 @@||chart.apis.google.com^
 @@||chat.qwen.ai^
+@@||click.discord.com^
 @@||crt.sectigo.com^
 @@||ct.sendgrid.net^
 @@||edgewise.app^
