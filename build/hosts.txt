@@ -3,7 +3,7 @@
 ! Description: Balance between privacy and usability.
 ! Homepage: https://github.com/dalisoft/blockers
 ! License: https://github.com/dalisoft/blockers/blob/master/LICENSE
-! Last modified: 2026-04-02T00:16:30+0500
+! Last modified: 2026-05-26T18:43:28+0500
 !
 !rule@@||activity.windows.com^
 !rule@@||alfabit.org^
@@ -59,8 +59,10 @@
 @@||apple-relay.apple.com^
 @@||appleid.cdn-apple.com^
 @@||blog.logrocket.com^
+@@||ccode.dev^
 @@||chart.apis.google.com^
 @@||chat.qwen.ai^
+@@||click.discord.com^
 @@||crt.sectigo.com^
 @@||ct.sendgrid.net^
 @@||edgewise.app^
