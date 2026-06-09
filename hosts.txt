@@ -74,6 +74,7 @@
 @@||hub.jetbrains.com^
 @@||i.applelife.ru^
 @@||i.instagram.com^
+@@||idiagnostics.apple.com^
 @@||ipstack.com^
 @@||iso.pop-os.org^
 @@||kenjo.io^
