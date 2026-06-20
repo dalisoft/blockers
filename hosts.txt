@@ -48,6 +48,7 @@
 @@||2ip.ru^
 @@||360viewlink.com^
 @@||advcash.com^
+@@||aerolink.lat^
 @@||alive.github.com^
 @@||amp-api-edge.apps.apple.com^
 @@||amp-api-search-edge.apps.apple.com^
@@ -71,6 +72,7 @@
 @@||files.manuscdn.com^
 @@||fonts.gstatic.com^
 @@||fstream.binance.com^
+@@||heyseal.ai^
 @@||hub.jetbrains.com^
 @@||i.applelife.ru^
 @@||i.instagram.com^
