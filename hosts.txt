@@ -350,6 +350,7 @@
 ||sgplog.ezvizlife.com^
 ||sgplog.hik-connect.com^
 ||snowplow.digitaltrends.com^
+||spclient.wg.spotify.com^
 ||ss3.4sqi.net^
 ||startimg.ru^
 ||stat.joxi.ru^
