@@ -3,7 +3,7 @@
 ! Description: Balance between privacy and usability.
 ! Homepage: https://github.com/dalisoft/blockers
 ! License: https://github.com/dalisoft/blockers/blob/master/LICENSE
-! Last modified: 2026-06-20T19:32:29+0500
+! Last modified: 2026-06-23T02:43:38+0500
 !
 !rule@@||activity.windows.com^
 !rule@@||alfabit.org^
@@ -52,6 +52,7 @@
 @@||alive.github.com^
 @@||amp-api-edge.apps.apple.com^
 @@||amp-api-search-edge.apps.apple.com^
+@@||analytics.adjust.io^
 @@||api-private.atlassian.com^
 @@||api.atlassian.com^
 @@||api.producthunt.com^
@@ -284,8 +285,6 @@
 ||malwarebytes.org^
 ||marketing.figma.com^
 ||mask-api.fe.apple-dns.net^
-||mask-api.icloud.com^
-||mask-h2.icloud.com^
 ||mask-t.apple-dns.net^
 ||mask.apple-dns.net^
 ||mask.icloud.com^
