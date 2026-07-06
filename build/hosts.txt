@@ -388,7 +388,6 @@
 ||use-application-dns.net^
 ||userator.ru^
 ||utimg.ru^
-||utt.impactcdn.com^
 ||vcsa.vmware.com^
 ||video-edge-3c0fb7.pdx01.abs.hls.ttvnw.net^
 ||videosvc.ezoic.com^
