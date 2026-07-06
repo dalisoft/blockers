@@ -339,6 +339,7 @@
 ||sealserver.trustwave.com^
 ||search-api.fie.future.net.uk^
 ||self-events-data.trafficmanager.net^
+||sentinel.openai.com^
 ||sentry.com^
 ||sentry.io^
 ||sentry.postmanlabs.com^
