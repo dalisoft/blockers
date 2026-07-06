@@ -226,6 +226,7 @@
 ||errors.figma.com^
 ||events.api.secureserver.net^
 ||events.gfe.nvidia.com^
+||events.kiloapps.io^
 ||factpic.ru^
 ||falcon.r.acdnpro.com^
 ||fast.trychameleon.com^
@@ -387,6 +388,7 @@
 ||use-application-dns.net^
 ||userator.ru^
 ||utimg.ru^
+||utt.impactcdn.com^
 ||vcsa.vmware.com^
 ||video-edge-3c0fb7.pdx01.abs.hls.ttvnw.net^
 ||videosvc.ezoic.com^
