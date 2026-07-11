@@ -36,6 +36,7 @@
 app.raindrop.io##a[href="https:/\/raindrop.io\/pro\/buy"][target="_blank"]
 app.raindrop.io##div[role="listitem"]:has(a[href="\/settings\/pro"])
 arcee.ai###new-model
+artificialanalysis.ai#$#.container.mb-24 { max-width: none !important; }
 docs.nestjs.com##app-root:first-child > app-homepage.ng-star-inserted:last-child > div.container-fluid:last-child > div.container:last-child > div.page-wrapper:first-child > app-controllers.ng-star-inserted:last-child > div.content > p > app-banner-enterprise > div.banner
 fiction.live###right
 fiction.live#$#.nodeDetail .page-body article { max-width:inherit !important; }
