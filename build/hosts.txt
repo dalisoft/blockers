@@ -3,7 +3,7 @@
 ! Description: Balance between privacy and usability.
 ! Homepage: https://github.com/dalisoft/blockers
 ! License: https://github.com/dalisoft/blockers/blob/master/LICENSE
-! Last modified: 2026-07-11T14:13:15+0500
+! Last modified: 2026-07-12T07:05:05+0500
 !
 !rule@@||activity.windows.com^
 !rule@@||alfabit.org^
