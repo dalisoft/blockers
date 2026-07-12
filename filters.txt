@@ -41,7 +41,7 @@ docs.nestjs.com##app-root:first-child > app-homepage.ng-star-inserted:last-child
 fiction.live###right
 fiction.live#$#.nodeDetail .page-body article { max-width:inherit !important; }
 fiction.live#$##content { padding-right:0 !important; }
-livebench.ai#$##root > #lb-leaderboard > div.lb-wrap { max-width: none !important; }
+livebench.ai#$#section#lb-leaderboard > .lb-wrap { max-width: none !important; }
 medium.com###root > div.a.b.c > div.l.c:last-child > div.l:last-child > div.m.tc.td.te:nth-child(4)
 ntp.msn.com^
 providusbank.com##.modal.fade
