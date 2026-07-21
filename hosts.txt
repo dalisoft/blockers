@@ -47,14 +47,12 @@
 @@||1satoshi.exchange^
 @@||2ip.ru^
 @@||360viewlink.com^
-@@||acjs.aliyun.com^
 @@||advcash.com^
 @@||aerolink.lat^
 @@||alive.github.com^
 @@||amp-api-edge.apps.apple.com^
 @@||amp-api-search-edge.apps.apple.com^
 @@||analytics.adjust.io^
-@@||ap-southeast-1.log.aliyuncs.com^
 @@||api-private.atlassian.com^
 @@||api.atlassian.com^
 @@||api.producthunt.com^
@@ -62,8 +60,6 @@
 @@||app.gitbook.com^
 @@||apple-relay.apple.com^
 @@||appleid.cdn-apple.com^
-@@||arms-retcode-sg.aliyuncs.com^
-@@||auxiliary.alibabacloud.com^
 @@||blog.logrocket.com^
 @@||ccode.dev^
 @@||chart.apis.google.com^
@@ -103,7 +99,6 @@
 @@||plati.ru^
 @@||plex.direct^
 @@||privacymail.app^
-@@||retcode.taobao.com^
 @@||rsload.xyz^
 @@||s.gateway.messenger.live.com^
 @@||s.youtube.com^
@@ -116,7 +111,6 @@
 @@||stream.voidboost.top^
 @@||swe-arena.com^
 @@||t.co^
-@@||tdum.alibaba.com^
 @@||testing.richdragon.site^
 @@||tokenized.play.google.com^
 @@||track.pstmrk.it^
