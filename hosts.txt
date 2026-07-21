@@ -50,6 +50,7 @@
 @@||acjs.aliyun.com^
 @@||advcash.com^
 @@||aerolink.lat^
+@@||alibabacloud-ccim.ap-southeast-1.log.aliyuncs.com^
 @@||alive.github.com^
 @@||amp-api-edge.apps.apple.com^
 @@||amp-api-search-edge.apps.apple.com^
