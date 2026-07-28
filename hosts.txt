@@ -52,8 +52,6 @@
 @@||alive.github.com^
 @@||amp-api-edge.apps.apple.com^
 @@||amp-api-search-edge.apps.apple.com^
-@@||analytics.adjust.com^
-@@||analytics.adjust.io^
 @@||api-private.atlassian.com^
 @@||api.atlassian.com^
 @@||api.producthunt.com^
@@ -142,6 +140,8 @@
 ||alisg-normal-lb.byteoversea.net^
 ||an.yandex.ru^
 ||analytics-google.com^
+||analytics.adjust.com^
+||analytics.adjust.io^
 ||analytics.krisp.ai^
 ||anchor.digitalocean.com^
 ||api-iam.intercom.io^
