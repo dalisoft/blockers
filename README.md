@@ -8,36 +8,39 @@ Those lists are for using with filters in this repo
 
 ### AdGuard & uBlock filters
 
-| Name                           | Category          |
-| ------------------------------ | ----------------- |
-| AdGuard Base                   | Ad blocking       |
-| AdGuard Mobile Ads             | Ad blocking       |
-| EasyList                       | Ad blocking       |
-| AdGuard Tracking Protection    | Privacy           |
-| AdGuard URL Tracking           | Privacy           |
-| EasyPrivacy                    | Privacy           |
-| Legitimate URL Shortener       | Privacy           |
-| Peter Lowe's Blocklist         | Privacy           |
-| AdGuard Social Media           | Social/Widgets    |
-| AdGuard Annoyances             | Annoyances        |
-| Adblock Warning Removal List   | Annoyances        |
-| Fanboy's Annoyances            | Annoyances        |
-| Dandelion Sprout's Annoyances  | Annoyances        |
-| Online Malicious URL Blocklist | Security          |
-| Phishing URL Blocklist         | Security          |
-| AdGuard Russian filter         | Language-specific |
-| AdGuard German filter          | Language-specific |
-| AdGuard Dutch filter           | Language-specific |
-| AdGuard Turkish filter         | Language-specific |
-| AdGuard French filter          | Language-specific |
-| AdGuard Ukrainian filter       | Language-specific |
-| AdGuard Chinese filter         | Language-specific |
-| Bulgarian list                 | Language-specific |
-| EasyList Hebrew                | Language-specific |
-| EasyList Italy                 | Language-specific |
-| Liste AR                       | Language-specific |
-| AdblockID                      | Language-specific |
-| List-KR                        | Language-specific |
+| Name                                 | Category          |
+| ------------------------------------ | ----------------- |
+| AdGuard Base                         | Ad blocking       |
+| AdGuard Mobile Ads                   | Ad blocking       |
+| EasyList                             | Ad blocking       |
+| AdGuard Tracking Protection          | Privacy           |
+| AdGuard URL Tracking                 | Privacy           |
+| AdGuard Mail Tracking Protection     | Privacy           |
+| EasyPrivacy                          | Privacy           |
+| Legitimate URL Shortener             | Privacy           |
+| Peter Lowe's Blocklist               | Privacy           |
+| AdGuard Social Media                 | Social/Widgets    |
+| AdGuard Annoyances                   | Annoyances        |
+| Adblock Warning Removal List         | Annoyances        |
+| Fanboy's Annoyances                  | Annoyances        |
+| Dandelion Sprout's Annoyances        | Annoyances        |
+| Online Malicious URL Blocklist       | Security          |
+| Phishing URL Blocklist               | Security          |
+| Scam Blocklist by DurableNapkin      | Security          |
+| Dandelion Sprout's Anti-Malware List | Security          |
+| AdGuard Russian filter               | Language-specific |
+| AdGuard German filter                | Language-specific |
+| AdGuard Dutch filter                 | Language-specific |
+| AdGuard Turkish filter               | Language-specific |
+| AdGuard French filter                | Language-specific |
+| AdGuard Ukrainian filter             | Language-specific |
+| AdGuard Chinese filter               | Language-specific |
+| Bulgarian list                       | Language-specific |
+| EasyList Hebrew                      | Language-specific |
+| EasyList Italy                       | Language-specific |
+| Liste AR                             | Language-specific |
+| AdblockID                            | Language-specific |
+| List-KR                              | Language-specific |
 
 Custom filters:
 
