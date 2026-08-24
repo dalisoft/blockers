@@ -1,5 +1,5 @@
 ! Title: @dalisoft filter
-! Last modified: 2026-08-22T06:47:51+0500
+! Last modified: 2026-08-24T10:41:47+0500
 ! Expires: 2 days
 ! Description: Addition to list of filters to boost and optimize website
 ! Homepage: https://github.com/dalisoft/blockers
