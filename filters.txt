@@ -8,6 +8,7 @@
 ! GitHub issues: https://github.com/dalisoft/blockers/issues
 ! GitHub pull requests: https://github.com/dalisoft/blockers/pulls
 @@||2ip.ua^$important,document
+@@||account.alibabacloud.com^$important,document
 @@||apps.hrforecast.de^$important,document
 @@||cdck-file-uploads-us1.s3-accelerate.dualstack.amazonaws.com^$domain=community.openai.com
 @@||content.googleapis.com/upload/drive/$domain=aistudio.google.com
