@@ -84,6 +84,7 @@
 @@||landingkit.dev^
 @@||lgrecommends.lgappstv.com^
 @@||login.microsoftonline.com^
+@@||mask-api.icloud.com^
 @@||mg.mail.notion.so^
 @@||myscreen.ru^
 @@||nnmstatic.win^
@@ -288,7 +289,6 @@
 ||malwarebytes.org^
 ||marketing.figma.com^
 ||mask-api.fe.apple-dns.net^
-||mask-api.icloud.com^
 ||mask-h2.icloud.com^
 ||mask-t.apple-dns.net^
 ||mask.apple-dns.net^
