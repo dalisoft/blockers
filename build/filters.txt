@@ -1,5 +1,5 @@
 ! Title: @dalisoft filter
-! Last modified: 2026-08-24T10:41:47+0500
+! Last modified: 2026-09-03T20:06:55+0500
 ! Expires: 2 days
 ! Description: Addition to list of filters to boost and optimize website
 ! Homepage: https://github.com/dalisoft/blockers
@@ -8,10 +8,12 @@
 ! GitHub issues: https://github.com/dalisoft/blockers/issues
 ! GitHub pull requests: https://github.com/dalisoft/blockers/pulls
 @@||2ip.ua^$important,document
+@@||account.alibabacloud.com^$important,document
 @@||apps.hrforecast.de^$important,document
 @@||cdck-file-uploads-us1.s3-accelerate.dualstack.amazonaws.com^$domain=community.openai.com
 @@||content.googleapis.com/upload/drive/$domain=aistudio.google.com
 @@||dalisoft.uz^$important,document
+@@||discord.com^$important,document
 @@||docs.google.com^$elemhide
 @@||dvprogram.state.gov^$important,document
 @@||e-imzo.uz^$important,document
@@ -25,6 +27,7 @@
 @@||shareasale.com^$important,document
 @@||storage.yandexcloud.net$image
 @@||test-ipv6.com^$important,document
+@@||v3.account.samsung.com^$important,document
 @@||web.archive.org^$important,document
 @@||www.icloud.com^$important,document
 @@||www.instagram.com^$important,document
