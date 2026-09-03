@@ -26,6 +26,7 @@
 @@||shareasale.com^$important,document
 @@||storage.yandexcloud.net$image
 @@||test-ipv6.com^$important,document
+@@||v3.account.samsung.com^$important,document
 @@||web.archive.org^$important,document
 @@||www.icloud.com^$important,document
 @@||www.instagram.com^$important,document
