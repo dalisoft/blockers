@@ -32,6 +32,7 @@
 @@||www.icloud.com^$important,document
 @@||www.instagram.com^$important,document
 ||cdn-client.medium.com^$script
+||cdn.osxdaily.com^$script
 ||log.tailscale.com^
 ||play.google.com/log^
 ||reddit.com^$removeparam=tl
