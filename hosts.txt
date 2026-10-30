@@ -262,6 +262,7 @@
 ||info.cloudflare.com^
 ||info.nvidia.com^
 ||info.nvidianews.com^
+||ingest.t3.codes^
 ||internalcheck.apple.com^
 ||ios.prod.http1.netflix.com^
 ||ipaddress.com^
