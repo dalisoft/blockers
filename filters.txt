@@ -40,6 +40,7 @@
 app.raindrop.io##a[href="https:/\/raindrop.io\/pro\/buy"][target="_blank"]
 app.raindrop.io##div[role="listitem"]:has(a[href="\/settings\/pro"])
 arcee.ai###new-model
+artificialanalysis.ai##.mt-2.grid.w-full.grid-cols-1.gap-6.lg\:grid-cols-2:style(grid: none !important;)
 artificialanalysis.ai#$#.container { max-width: none !important; }
 docs.nestjs.com##app-root:first-child > app-homepage.ng-star-inserted:last-child > div.container-fluid:last-child > div.container:last-child > div.page-wrapper:first-child > app-controllers.ng-star-inserted:last-child > div.content > p > app-banner-enterprise > div.banner
 fiction.live###right
