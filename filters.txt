@@ -31,6 +31,7 @@
 @@||web.archive.org^$important,document
 @@||www.icloud.com^$important,document
 @@||www.instagram.com^$important,document
+||api.commandcode.ai/internal/fingerprint/
 ||cdn-client.medium.com^$script
 ||log.tailscale.com^
 ||play.google.com/log^
