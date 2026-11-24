@@ -140,7 +140,6 @@
 ||alisg-normal-lb.byteoversea.net^
 ||an.yandex.ru^
 ||analytics-google.com^
-||analytics.adjust.com^
 ||analytics.adjust.io^
 ||analytics.krisp.ai^
 ||anchor.digitalocean.com^
