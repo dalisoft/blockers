@@ -12,7 +12,6 @@
 @@||apps.hrforecast.de^$important,document
 @@||cdck-file-uploads-us1.s3-accelerate.dualstack.amazonaws.com^$domain=community.openai.com
 @@||content.googleapis.com/upload/drive/$domain=aistudio.google.com
-@@||dalisoft.uz^$important,document
 @@||docs.google.com^$elemhide
 @@||dvprogram.state.gov^$important,document
 @@||e-imzo.uz^$important,document
