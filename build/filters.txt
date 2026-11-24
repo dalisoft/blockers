@@ -1,5 +1,5 @@
 ! Title: @dalisoft filter
-! Last modified: 2026-11-19T20:36:44+0500
+! Last modified: 2026-11-24T10:27:54+0500
 ! Expires: 2 days
 ! Description: Addition to list of filters to boost and optimize website
 ! Homepage: https://github.com/dalisoft/blockers
@@ -12,8 +12,6 @@
 @@||apps.hrforecast.de^$important,document
 @@||cdck-file-uploads-us1.s3-accelerate.dualstack.amazonaws.com^$domain=community.openai.com
 @@||content.googleapis.com/upload/drive/$domain=aistudio.google.com
-@@||dalisoft.uz^$important,document
-@@||discord.com^$important,document
 @@||docs.google.com^$elemhide
 @@||dvprogram.state.gov^$important,document
 @@||e-imzo.uz^$important,document
@@ -34,6 +32,7 @@
 ||api.commandcode.ai/internal/fingerprint/
 ||cdn-client.medium.com^$script
 ||log.tailscale.com^
+||ntp.msn.com^
 ||play.google.com/log^
 ||reddit.com^$removeparam=tl
 ||report.error-report.com^$script
@@ -49,7 +48,6 @@ fiction.live#$#.nodeDetail .page-body article { max-width:inherit !important; }
 fiction.live#$##content { padding-right:0 !important; }
 livebench.ai#$#section#lb-leaderboard > .lb-wrap { max-width: none !important; }
 medium.com###root > div.a.b.c > div.l.c:last-child > div.l:last-child > div.m.tc.td.te:nth-child(4)
-ntp.msn.com^
 providusbank.com##.modal.fade
 reddit.com###blocking-modal
 reddit.com###main-content > inline-auth-landing-experience-xpromo-shell.absolute:last-child

@@ -3,7 +3,7 @@
 ! Description: Balance between privacy and usability.
 ! Homepage: https://github.com/dalisoft/blockers
 ! License: https://github.com/dalisoft/blockers/blob/master/LICENSE
-! Last modified: 2026-11-19T20:36:44+0500
+! Last modified: 2026-11-24T10:27:54+0500
 !
 !rule@@||activity.windows.com^
 !rule@@||alfabit.org^
@@ -44,7 +44,6 @@
 !rule||static.cloud.coveo.com^
 !rule||static.hdrezka.ac^
 !rule||stytch.com^
-@@||1satoshi.exchange^
 @@||2ip.ru^
 @@||360viewlink.com^
 @@||advcash.com^
@@ -112,7 +111,6 @@
 @@||stream.voidboost.top^
 @@||swe-arena.com^
 @@||t.co^
-@@||testing.richdragon.site^
 @@||tokenized.play.google.com^
 @@||track.pstmrk.it^
 @@||ut.taobao.com^
@@ -142,7 +140,6 @@
 ||alisg-normal-lb.byteoversea.net^
 ||an.yandex.ru^
 ||analytics-google.com^
-||analytics.adjust.com^
 ||analytics.adjust.io^
 ||analytics.krisp.ai^
 ||anchor.digitalocean.com^
@@ -367,7 +364,6 @@
 ||stats.gc.apple.com^
 ||stats.gcp.smartmailcloud.com^
 ||statsig.anthropic.com^
-||status.geotrust.com^
 ||storage.elfsight.com^
 ||sublimehq.com^
 ||syndication.twitter.com^
