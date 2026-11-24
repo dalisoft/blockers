@@ -32,6 +32,7 @@
 ||api.commandcode.ai/internal/fingerprint/
 ||cdn-client.medium.com^$script
 ||log.tailscale.com^
+||ntp.msn.com^
 ||play.google.com/log^
 ||reddit.com^$removeparam=tl
 ||report.error-report.com^$script
@@ -47,7 +48,6 @@ fiction.live#$#.nodeDetail .page-body article { max-width:inherit !important; }
 fiction.live#$##content { padding-right:0 !important; }
 livebench.ai#$#section#lb-leaderboard > .lb-wrap { max-width: none !important; }
 medium.com###root > div.a.b.c > div.l.c:last-child > div.l:last-child > div.m.tc.td.te:nth-child(4)
-ntp.msn.com^
 providusbank.com##.modal.fade
 reddit.com###blocking-modal
 reddit.com###main-content > inline-auth-landing-experience-xpromo-shell.absolute:last-child
