@@ -44,7 +44,6 @@
 !rule||static.cloud.coveo.com^
 !rule||static.hdrezka.ac^
 !rule||stytch.com^
-@@||1satoshi.exchange^
 @@||2ip.ru^
 @@||360viewlink.com^
 @@||advcash.com^
@@ -112,7 +111,6 @@
 @@||stream.voidboost.top^
 @@||swe-arena.com^
 @@||t.co^
-@@||testing.richdragon.site^
 @@||tokenized.play.google.com^
 @@||track.pstmrk.it^
 @@||ut.taobao.com^
