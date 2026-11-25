@@ -99,7 +99,6 @@
 @@||plati.ru^
 @@||plex.direct^
 @@||privacymail.app^
-@@||rsload.xyz^
 @@||s.gateway.messenger.live.com^
 @@||s.youtube.com^
 @@||sf-api-token-service.itunes.apple.com^
