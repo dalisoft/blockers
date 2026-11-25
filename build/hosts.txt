@@ -3,7 +3,7 @@
 ! Description: Balance between privacy and usability.
 ! Homepage: https://github.com/dalisoft/blockers
 ! License: https://github.com/dalisoft/blockers/blob/master/LICENSE
-! Last modified: 2026-11-24T10:27:54+0500
+! Last modified: 2026-11-25T08:15:54+0500
 !
 !rule@@||activity.windows.com^
 !rule@@||alfabit.org^
@@ -16,6 +16,7 @@
 !rule@@||committers.top^
 !rule@@||continuum.dds.microsoft.com^
 !rule@@||excess.duolingo.com^
+!rule@@||exchanger.market^
 !rule@@||fpjscdn.net^
 !rule@@||go.aiven.io^
 !rule@@||img.imgsmail.ru^
@@ -47,7 +48,6 @@
 @@||2ip.ru^
 @@||360viewlink.com^
 @@||advcash.com^
-@@||aerolink.lat^
 @@||alive.github.com^
 @@||amp-api-edge.apps.apple.com^
 @@||amp-api-search-edge.apps.apple.com^
@@ -68,7 +68,6 @@
 @@||ct.sendgrid.net^
 @@||edgewise.app^
 @@||emaillinks.soundiiz.com^
-@@||exchanger.market^
 @@||files.manuscdn.com^
 @@||fonts.gstatic.com^
 @@||fstream.binance.com^
@@ -99,7 +98,6 @@
 @@||plati.ru^
 @@||plex.direct^
 @@||privacymail.app^
-@@||rsload.xyz^
 @@||s.gateway.messenger.live.com^
 @@||s.youtube.com^
 @@||sf-api-token-service.itunes.apple.com^
