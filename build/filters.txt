@@ -1,5 +1,5 @@
 ! Title: @dalisoft filter
-! Last modified: 2026-11-25T08:15:54+0500
+! Last modified: 2026-11-25T08:17:44+0500
 ! Expires: 2 days
 ! Description: Addition to list of filters to boost and optimize website
 ! Homepage: https://github.com/dalisoft/blockers
@@ -26,9 +26,6 @@
 @@||storage.yandexcloud.net$image
 @@||test-ipv6.com^$important,document
 @@||v3.account.samsung.com^$important,document
-@@||web.archive.org^$important,document
-@@||www.icloud.com^$important,document
-@@||www.instagram.com^$important,document
 ||api.commandcode.ai/internal/fingerprint/
 ||cdn-client.medium.com^$script
 ||log.tailscale.com^
