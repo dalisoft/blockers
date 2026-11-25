@@ -16,6 +16,7 @@
 !rule@@||committers.top^
 !rule@@||continuum.dds.microsoft.com^
 !rule@@||excess.duolingo.com^
+!rule@@||exchanger.market^
 !rule@@||fpjscdn.net^
 !rule@@||go.aiven.io^
 !rule@@||img.imgsmail.ru^
@@ -67,7 +68,6 @@
 @@||ct.sendgrid.net^
 @@||edgewise.app^
 @@||emaillinks.soundiiz.com^
-@@||exchanger.market^
 @@||files.manuscdn.com^
 @@||fonts.gstatic.com^
 @@||fstream.binance.com^
