@@ -26,7 +26,6 @@
 @@||storage.yandexcloud.net$image
 @@||test-ipv6.com^$important,document
 @@||v3.account.samsung.com^$important,document
-@@||web.archive.org^$important,document
 ||api.commandcode.ai/internal/fingerprint/
 ||cdn-client.medium.com^$script
 ||log.tailscale.com^
