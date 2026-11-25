@@ -47,7 +47,6 @@
 @@||2ip.ru^
 @@||360viewlink.com^
 @@||advcash.com^
-@@||aerolink.lat^
 @@||alive.github.com^
 @@||amp-api-edge.apps.apple.com^
 @@||amp-api-search-edge.apps.apple.com^
